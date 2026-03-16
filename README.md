@@ -1,96 +1,66 @@
-<h1 align="center">Hi, I'm Arnav Karwa 👋</h1>
-<h3 align="center">AI Engineer | Full-Stack Developer | Data Science & ML</h3>
+<div align="center">
+  <h1>Hi, I'm Arnav Karwa 👋</h1>
+  <h3>Software Developer | AI & Data Science Engineer</h3>
+  <p>Building AI-driven applications, scalable web services, and data analytics tools.</p>
+</div>
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me
 
-I’m a **B.Tech student in Artificial Intelligence & Data Science at MIT-WPU, Pune**, working at the intersection of **AI systems, data science, and full-stack development**. I enjoy building products that combine solid engineering with practical machine learning.
+I’m a **B.Tech student in Computer Science and Engineering (AI & Data Science) at MIT-WPU**, passionate about working at the intersection of AI systems, data analytics, and full-stack development. I enjoy building products that combine solid software engineering with practical machine learning.
 
-Currently, my work spans **AI agents, backend systems, data analytics, and production-ready web applications**.
+* 🧠 **Currently focused on:** Multi-agent AI systems, backend architecture, and intelligent workflows.
+* 💼 **Experience:**
+    * **LegitReach (R&D Intern):** Developing an AI-first creative generation engine for brand-specific ad content and automating performance tracking using Meta Ads API.
+    * **Harbinger Group (Former Software Developer Intern):** Built SkillSense AI, a personalized Agentic AI skill recommendation platform, and designed data-driven dashboards.
+    * **IAM (Former Software Developer Intern):** Led full-stack development of a sales web app, optimizing data retrieval times by 50%.
+* 🎲 **Community & Leadership:** Co-founder of Boardgame Meetups Pune, scaling a local tabletop community to over 10k members and hosting 30+ events.
 
-🔹 **Software Developer Intern – Integrated Active Monitoring (IAM)**  
-Worked on backend development, API integrations, and system enhancements.  
-
-🔹 **AI & Software Intern – Harbinger**  
-Contributing to feature development and real-world engineering workflows.  
-
-🔹 **AI Intern – LegitReach**  
-Building AI-driven marketing automation, analytics pipelines, and intelligent workflows.  
-
-🔹 **Research & Projects**  
-Co-author of *“Intelligent Automated Exploratory Data Analysis”* (accepted with minor revisions), focused on automating data understanding using AI.
-
-Outside tech:  
-🥋 **Black Belt in Karate** | 🏀 **Former district-level basketball player**  
-Sports have shaped my discipline, teamwork, and leadership mindset.
-
-I like building things end-to-end, learning by doing, and working on problems that actually matter.
+When I'm not writing code with GitHub Copilot or reading up on the latest AI and tech news, I'm usually organizing local board game nights, playing Clash of Clans, maintaining my discipline through sports (Black Belt in Karate & former district-level basketball player), or hunting down the best pizza in Pune.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-**Python** | **JavaScript** | **TypeScript** | **Java** | **C++** | **C** | **SQL** | **PL/SQL** | **PHP**
-
-### 🌐 Frontend Development
-**React** | **React Native** | **Next.js** | **HTML/CSS**  
-**Tailwind CSS** | **Bootstrap** | **Material UI**
-
-### ⚙️ Backend & APIs
-**Node.js** | **Express.js** | **FastAPI** | **Django** | **Flask**  
-**REST APIs** | **SQLAlchemy**
-
-### 🧠 Data Science, ML & AI
-**NumPy** | **Pandas** | **Scikit-learn**  
-**TensorFlow** | **Keras** | **PyTorch**  
-**Machine Learning** | **Deep Learning** | **AI Systems**
-
-### 📊 Analytics & Visualization
-**Matplotlib** | **Seaborn** | **Power BI** | **Tableau**
-
-### 🗄️ Databases
-**PostgreSQL** | **MongoDB** | **MySQL** | **SQLite** | **InfluxDB**
-
-### 🔧 Developer Tools
-**Git & GitHub** | **Postman**  
-**Jupyter Notebook** | **VS Code**  
-**Linux** | **Windows**
+**Languages:** Python • JavaScript • TypeScript • C++ • C • SQL • PL/SQL • PHP  
+**Frontend:** React • Next.js • HTML/CSS • Tailwind CSS • Bootstrap • Material UI  
+**Backend:** Node.js • Express.js • FastAPI • Django • Flask • SQLAlchemy • REST APIs  
+**AI & Data Science:** TensorFlow • Keras • Scikit-learn • LangGraph • Langchain • NumPy • Pandas • Tableau • Power BI  
+**Databases:** PostgreSQL • MongoDB • MySQL • SQLite • InfluxDB • Supabase  
+**Tools:** Git • GitHub • Docker • Postman • Jupyter • Linux  
 
 ---
 
 ## 📌 Selected Projects
 
-🔹 **Automated EDA** – AI-powered exploratory data analysis with automated insights  
-🔹 **Stock Market Predictor** – ML + technical indicators + sentiment analysis  
-🔹 **Real Estate Price Predictor** – AI-based pricing model  
-🔹 **Pharmacy Management System** – Inventory & sales management  
-🔹 **YouTube Dislikes Analysis** – Large-scale data analysis project  
-🔹 **AI-Driven Finance & Marketing Agents** – LangGraph-based intelligent workflows  
+* 🤖 **[Prompt Master](https://prompt-master-sepia.vercel.app)** – A multi-agent AI platform that evaluates and optimizes prompts with intelligent agent routing and detailed scoring. *(Next.js, FastAPI, LangGraph, Groq AI, Supabase)*
+* 📊 **Automated_EDA** – An AI-powered web application for automated exploratory data analysis and interactive dashboard generation. *(React, FastAPI, Groq AI, Plotly.js)*
+* 🌱 **[Agrotech AI](https://agro-tech-roan.vercel.app/login)** – An AI-powered agricultural platform for crop recommendations and real-time farming optimization. *(React, FastAPI, TensorFlow, Scikit-learn, LangGraph)*
+* 📈 **Stock Market Predictor** – ML + technical indicators + sentiment analysis.
+* 🏠 **Real Estate Price Predictor** – AI-based pricing model data science workflow.
 
-More projects here →  
-👉 https://github.com/ArnavKarwa07?tab=repositories
+👉 **[View more of my repositories here](https://github.com/ArnavKarwa07?tab=repositories)**
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArnavKarwa07&show_icons=true&theme=radical" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnavKarwa07&theme=radical" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArnavKarwa07&show_icons=true&theme=radical" alt="Arnav's GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnavKarwa07&theme=radical" alt="Arnav's GitHub Streak" />
+</div>
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="center">
+<div align="center">
   <a href="mailto:arnavkarwa07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/arnav-karwa/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-</p>
+</div>
